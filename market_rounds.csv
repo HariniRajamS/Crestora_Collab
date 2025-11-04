@@ -1,0 +1,92 @@
+round,company,price
+1,Adani Green Energy,290
+1,Apollo Hospitals,300
+1,Bharti Airtel,310
+1,CodeLabs,260
+1,Exide Energy,210
+1,HDFC Bank,400
+1,IndiGo Airlines,280   
+1,Infosys,350
+1,InfyTech,240
+1,L&T Infrastructure,320
+1,ONGC,230
+1,TATA Motors,250
+1,TechNova Semiconductors,220   
+2,Adani Green Energy,290
+2,Apollo Hospitals,300
+2,Bharti Airtel,310
+2,CodeLabs,260
+2,Exide Energy,205
+2,HDFC Bank,400
+2,IndiGo Airlines,280
+2,Infosys,330
+2,InfyTech,240
+2,L&T Infrastructure,325
+2,ONGC,230
+2,TATA Motors,250
+2,TechNova Semiconductors,190
+3,Adani Green Energy,290
+3,Apollo Hospitals,300
+3,Bharti Airtel,310
+3,CodeLabs,260
+3,Exide Energy,205
+3,HDFC Bank,440
+3,IndiGo Airlines,280
+3,Infosys,332
+3,InfyTech,240
+3,L&T Infrastructure,340
+3,ONGC,228
+3,TATA Motors,260
+3,TechNova Semiconductors,190
+4,Adani Green Energy,290
+4,Apollo Hospitals,360
+4,Bharti Airtel,310
+4,CodeLabs,260
+4,Exide Energy,205
+4,HDFC Bank,440
+4,IndiGo Airlines,240
+4,Infosys,328
+4,InfyTech,240
+4,L&T Infrastructure,340
+4,ONGC,225
+4,TATA Motors,260
+4,TechNova Semiconductors,190
+5,Adani Green Energy,270
+5,Apollo Hospitals,360
+5,Bharti Airtel,310
+5,CodeLabs,260
+5,Exide Energy,215
+5,HDFC Bank,440
+5,IndiGo Airlines,220
+5,Infosys,328
+5,InfyTech,240
+5,L&T Infrastructure,335
+5,ONGC,260
+5,TATA Motors,260
+5,TechNova Semiconductors,190
+6,Adani Green Energy,270
+6,Apollo Hospitals,360
+6,Bharti Airtel,340
+6,CodeLabs,260
+6,Exide Energy,215
+6,HDFC Bank,410
+6,IndiGo Airlines,220
+6,Infosys,295
+6,InfyTech,240
+6,L&T Infrastructure,355
+6,ONGC,258
+6,TATA Motors,260
+6,TechNova Semiconductors,190
+7,Adani Green Energy,270
+7,Apollo Hospitals,360
+7,Bharti Airtel,340
+7,CodeLabs,270
+7,Exide Energy,215
+7,HDFC Bank,412
+7,IndiGo Airlines,220
+7,Infosys,305
+7,InfyTech,250
+7,L&T Infrastructure,355
+7,ONGC,258
+7,TATA Motors,260
+7,TechNova Semiconductors,190
